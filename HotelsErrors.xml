@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Hotel>
-  <Hotel>
-    <Name>Westin</Name>
+  <Hotel Rating="4.2">
+    <n>Westin</n>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -10,11 +10,10 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      </Address>
-    <Rating>4.2</Rating>
-    </Hotel>
+    </Address>
+  </Hotel>
   <Hotel>
-    <Name>Hyatt</Name>
+    <n>Hyatt</n>
     <Phone>480-123-4567</Phone>
     <Address>
       <Number>101</Number>
@@ -22,11 +21,10 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      </Address>
-    <Rating>4.5</Rating>
-    </Hotel>
-  <Hotel>
-    <Name>Marriott</Name>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <n>Marriott</n>
     <Phone>800-555-1234</Phone>
     <Address>
       <Number>50</Number>
@@ -34,16 +32,20 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      </Address>
-    <Rating>4.0</Rating>
-    </Hotel>
-  <Hotel>
-    <Name>Holiday Inn</Name>
-    <Phone>602-999-1111</Phone>
-    <Rating>3.8</Rating>
-    </Hotel>
-  <Hotel>
-    <Name>Hampton Inn</Name>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.8">
+    <n>Holiday Inn</n>
+    <Address NearestAirport="Phoenix-Mesa Gateway">
+      <Number>200</Number>
+      <Street>W 5th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.1">
+    <n>Hampton Inn</n>
     <Phone>480-222-3333</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>300</Number>
@@ -51,12 +53,11 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      </Address>
-    <Rating>4.1</Rating>
-    <Name>Duplicate Hotel Name</Name>
-    </Hotel>
+      <Number>Duplicate Hotel Name</Number>
+    </Address>
+  </Hotel>
   <Hotel>
-    <Name>DoubleTree</Name>
+    <n>DoubleTree</n>
     <Phone>602-777-8888</Phone>
     <Address>
       <Number>400</Number>
@@ -64,10 +65,10 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85282</Zip>
-      </Address>
-    </Hotel>
-  <Hotel>
-    <Name>Courtyard</Name>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <n>Courtyard</n>
     <Phone>480-888-9999</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>10</Number>
@@ -75,11 +76,10 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      </Address>
-    <Rating>4.0</Rating>
-    </Hotel>
-  <Hotel>
-    <Name>AC Hotel</Name>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.9">
+    <n>AC Hotel</n>
     <Phone>480-777-0000</Phone>
     <Address>
       <Number>20</Number>
@@ -87,11 +87,10 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      </Address>
-    <Rating>3.9</Rating>
-    </Hotel>
+    </Address>
+  </Hotel>
   <Hotel>
-    <Name>Aloft</Name>
+    <n>Aloft</n>
     <Phone>602-333-4444</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>5</Number>
@@ -99,10 +98,10 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      </Address>
-    </Hotel>
-  <Hotel>
-    <Name>Residence Inn</Name>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.3">
+    <n>Residence Inn</n>
     <Phone>480-999-8888</Phone>
     <Phone>888-111-2222</Phone>
     <Address>
@@ -111,7 +110,6 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      </Address>
-    <Rating>4.3</Rating>
-    </Hotel>
+    </Address>
   </Hotel>
+</Hotel>
