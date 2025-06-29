@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Hotels>
   <Hotel Rating="4.2">
-    <Name>Westin</Name>
+    <n>Westin</n>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearestAirport="Sky Habor">
       <Number>11</Number>
-      <Street>E 7th St</Street>
+      <Street>E.7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
   </Hotel>
   <Hotel Rating="4.5">
-    <Name>Hyatt</Name>
+    <n>Hyatt</n>
     <Phone>480-123-4567</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>101</Number>
@@ -24,7 +24,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.0">
-    <Name>Marriott</Name>
+    <n>Marriott</n>
     <Phone>480-234-5678</Phone>
     <Phone>800-555-1234</Phone>
     <Address>
@@ -36,7 +36,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="3.8">
-    <Name>Holiday Inn</Name>
+    <n>Holiday Inn</n>
     <Phone>602-999-1111</Phone>
     <Address NearestAirport="Phoenix-Mesa Gateway">
       <Number>200</Number>
@@ -47,7 +47,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.1">
-    <Name>Hampton Inn</Name>
+    <n>Hampton Inn</n>
     <Phone>480-222-3333</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>300</Number>
@@ -58,7 +58,7 @@
     </Address>
   </Hotel>
   <Hotel>
-    <Name>DoubleTree</Name>
+    <n>DoubleTree</n>
     <Phone>602-777-8888</Phone>
     <Address>
       <Number>400</Number>
@@ -69,7 +69,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.0">
-    <Name>Courtyard</Name>
+    <n>Courtyard</n>
     <Phone>480-888-9999</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>10</Number>
@@ -80,7 +80,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="3.9">
-    <Name>AC Hotel</Name>
+    <n>AC Hotel</n>
     <Phone>480-777-0000</Phone>
     <Address>
       <Number>20</Number>
@@ -91,7 +91,7 @@
     </Address>
   </Hotel>
   <Hotel>
-    <Name>Aloft</Name>
+    <n>Aloft</n>
     <Phone>602-333-4444</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>5</Number>
@@ -102,12 +102,23 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.3">
-    <Name>Residence Inn</Name>
+    <n>Residence Inn</n>
     <Phone>480-999-8888</Phone>
     <Phone>888-111-2222</Phone>
     <Address>
       <Number>1</Number>
       <Street>E 6th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.7">
+    <n>Embassy Suites</n>
+    <Phone>480-333-2222</Phone>
+    <Address>
+      <Number>75</Number>
+      <Street>W Rio Salado Pkwy</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
